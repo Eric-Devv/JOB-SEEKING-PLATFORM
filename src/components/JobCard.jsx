@@ -1,4 +1,4 @@
-// JobCard.jsx
+
 /* eslint-disable react/prop-types */
 import { BiWorld, BiTimeFive } from "react-icons/bi";
 import { Link } from "react-router-dom";
