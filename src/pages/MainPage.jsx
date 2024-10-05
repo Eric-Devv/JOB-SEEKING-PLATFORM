@@ -106,7 +106,7 @@ function MainPage() {
                 more requests for the end of the month.{" "}
               </i>
               <b>
-                <u>Currently it shows demo api data.</u>
+                <u>Currently it shows the current api data.</u>
               </b>
             </div>
           }

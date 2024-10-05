@@ -1,4 +1,3 @@
-// JobInfoPage.jsx
 import { Link, useLocation } from "react-router-dom";
 import parse from "html-react-parser";
 

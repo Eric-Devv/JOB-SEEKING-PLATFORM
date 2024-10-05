@@ -65,13 +65,13 @@
   }
   
   input[type="submit"]:hover {
-    background-color: #0c59b2; /* Darker shade on hover */
+    background-color: #0c59b2; 
   }
   
   label {
     display: block;
     margin: 4px 0;
-    color: var(--accent-color); /* Lighter color for labels */
+    color: var(--accent-color); 
   }
   
   .text-secondary {
@@ -100,19 +100,19 @@
   
   @media (max-width: 768px) {
     .md\:w-1\/3 {
-      width: 94%; /* Full width on smaller screens */
+      width: 94%; 
     }
   
     .md\:mx-8 {
       margin-left: 0;
-      margin-right: 0; /* Remove margins for small screens */
+      margin-right: 0; 
     }
   }
   
   @media (min-width: 768px) {
     .md\:p-8 {
       padding: 2rem;
-      width: 95; /* More padding on medium screens */
+      width: 95; 
     }
   }
   
